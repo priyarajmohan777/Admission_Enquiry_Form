@@ -65,9 +65,9 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
             <br> <br>
 
             <label>Gender</label><br>
-            <input type="radio" name="gender" value="Male"> Male
+            <input type="radio" name="gender"> Male
             <br> 
-            <input type="radio" name="gender" value="Female">Female
+            <input type="radio" name="gender">Female
             <br> <br>
 
             <label>Date of Birth</label><br>
@@ -95,8 +95,8 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
             <br> <br>
 
              <label>Mode of Contact</label><br>
-            <input type="checkbox" name="contact" value="Email"> Email
-            <input type="checkbox" name="contact" value="Phone"> Phone
+            <input type="checkbox" name="contact"> Email
+            <input type="checkbox" name="contact"> Phone
 
             <br> <br>
 
